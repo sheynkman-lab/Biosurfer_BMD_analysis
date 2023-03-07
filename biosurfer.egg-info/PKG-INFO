@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: biosurfer
+Version: 0.1
+Summary: Biosurfer allows easy navigation between transcriptome and proteome
+Home-page: https://github.com/sheynkman-lab/biosurfer
+Author: Sheynkman Lab
+Author-email: sheynkman.lab@gmail.com
+Classifier: Programming Language :: Python :: 3,
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Intended Audience :: Science/Research
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.9
+License-File: LICENSE
